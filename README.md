@@ -1,6 +1,6 @@
 # Tunr Full Stack Application
 
-[Frontend Repo](https://github.com/10-3-pursuit/lab-tunr-frontend)
+[Frontend Repo](https://github.com/KenCab123/lab-tunr-frontend)
 
 
 Let's make our own music playlist app!
